@@ -5,4 +5,4 @@ This repository was created in order to play solid tones for Google Assistant. T
 
 The lack of lavfi support in ffmpeg.js, the lack of solid tone support in SSML, and the inability to use native dependencies in Cloud Functions made this a requirement. 
 
-Each file is a 0.1 second mp3 at the frequency in the file name.
+The directory name is the duration of the clips, the name is the frequency. 
